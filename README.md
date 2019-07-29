@@ -1,12 +1,7 @@
 > ### React + Redux FrontEnd da CloudPost
 
 
-### [Demo](https://app.cloudcamp.cf)&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 ## Passos
-
-Você pode ver a demo aqui: https://app.cloudcamp.cf
 
 Como vai rodar seu frontend
 
