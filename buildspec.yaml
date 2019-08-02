@@ -14,4 +14,4 @@ phases:
       - npm run build
   post_build:
     commands:
-      - aws s3 sync ./public s3://www.cloudcamp.cf 
+      - aws s3 sync ./build s3://www.cloudcamp.cf --cache-control max-age=3153600 --acl public-read
