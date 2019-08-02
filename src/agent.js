@@ -3,7 +3,7 @@ import _superagent from 'superagent';
 
 const superagent = superagentPromise(_superagent, global.Promise);
 
-const API_ROOT = 'https://backend.cloudcamp.cf:8000/api';
+const API_ROOT = 'https://backend.cloudcamp.cf';
 
 const encode = encodeURIComponent;
 const responseBody = res => res.body;
