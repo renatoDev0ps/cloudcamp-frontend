@@ -20,3 +20,5 @@ Para alterar a busca pelo Backend(API), basta editar `src/agent.js` e alterar` A
 ## Visão geral da funcionalidade
 
 O aplicativo de exemplo é um site de blog social (por exemplo, um clone do Medium.com) chamado "Cloud Post". Ele usa uma API personalizada para todas as solicitações, incluindo autenticação. 
+
+## End script
